@@ -31,6 +31,9 @@
       "last 1 safari version"
     ]
   },
+  "engines": {
+    "node": "15.x"
+  },
   "devDependencies": {
     "express": "^4.17.1"
   }
